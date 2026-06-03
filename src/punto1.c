@@ -1,4 +1,4 @@
-#include "stm32f103xb.h"
+#include "stm32f103xb.h"//hacer que cuente para abajo
 #include"seg.h"
 #define pinInterrupt 8
 int numero=0;
